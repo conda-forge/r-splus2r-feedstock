@@ -11,6 +11,9 @@ env:
     
     - CONDA_R=3.3.2
     - CONDA_R=3.4.1
+  global:
+    # The BINSTAR_TOKEN secure variable. This is defined canonically in conda-forge.yml.
+    - secure: "BqLgzeHUKJNFnzveBGBt6hnpCHje7fTYPhIFmig76lybsWUZP5Udxa9K56OMoyBdOWPtGC0mScYNLBRr2IHk/tClwVnzFg51AvYE492iJ3mvxjAao85cABDS2sXYqoZdh++nGvVGbw7eueGCogZbU93wTJZw8koR6Tlg5v4eq9Z02+dQDmADuv4fKA9PmN7Xcq7cgxGEn07qQpMvywis/C37zg+OK5EqLdl/nlcTukw8f5J+j2/IdOAr2Q8q8w70drZI+gStGjOeHHP7dL3EKz+rsUGVTN/noDBRSMO+eCxmAFg/cb/o5523QAGMw4JrEIajJKGnZpTQ7ti4GV9DilwLUyFYfKGNbB9xPQmezQEycleqgIvNHZftpuSHvCm6VrSm+1PXKIFEhq9plD3ePCRDG6XKIvNYYfJM0yXfAN97aj/XG1ljZ7NLY26EzUxj33gdMXjspATQUxfs3Bk9tQkOSxVBEnkWXOEvBwpiQtovyTeMGNy9ftgCZY9+Vu32PWfUJC7aQCyatA40+1HtiRg9lja7ih0JIUfYOdiDW3Ni/wKpZHWju/6vgFZjZ3eHxjbX08zpvOf4kNLsEhGZ7GhB48+jH+fpipZyTj9BUFLTdUJ9yBYY/argNik6z33qCJ6P7JECLO1C33JisH5j6vX7XmxE4T/oUEx/WeyXUdo="
 
 
 before_install:
