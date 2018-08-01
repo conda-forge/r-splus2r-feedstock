@@ -14,14 +14,16 @@ Summary: Currently there are many functions in S-PLUS that are missing in R. To 
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/r-splus2r-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/r-splus2r-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/r-splus2r-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/r-splus2r-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/r-splus2r-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/r-splus2r-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-splus2r-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-splus2r-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/r-splus2r-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-splus2r-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-splus2r-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-splus2r-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-splus2r/badges/version.svg)](https://anaconda.org/conda-forge/r-splus2r)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-splus2r/badges/downloads.svg)](https://anaconda.org/conda-forge/r-splus2r)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--splus2r-green.svg)](https://anaconda.org/conda-forge/r-splus2r) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-splus2r.svg)](https://anaconda.org/conda-forge/r-splus2r) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-splus2r.svg)](https://anaconda.org/conda-forge/r-splus2r) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-splus2r.svg)](https://anaconda.org/conda-forge/r-splus2r) |
 
 Installing r-splus2r
 ====================
